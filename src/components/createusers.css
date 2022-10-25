@@ -1,0 +1,37 @@
+
+
+.is-active{
+    font-size: larger;
+    color: orangered;
+}
+
+button{
+    color:green;
+    background-color: beige;
+    font-style: italic;
+    font-weight: 900;
+    border-radius: 1.5rem;
+    margin-top: 3rem;
+    
+    
+}
+.wrapper{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: blue;
+    font-weight: 5px;
+}
+
+input{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1rem;
+    color: green;
+}
+.form{
+    border-radius: 2rem;
+    box-shadow:1rem 1rem 1rem;
+}
+    
+    

@@ -1,0 +1,12 @@
+div{
+    font-size: large;
+    color:black;
+    font-weight: bold;
+}
+
+.is-active{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+}

@@ -1,0 +1,23 @@
+table{
+    padding: 3rem;
+    margin-left: 8rem;
+    margin-top: 1rem;
+    position: absolute;
+    border-radius: 2rem;
+    box-shadow: 1rem 2rem 3rem;
+}
+th{
+    font-size: 2rem;
+    justify-content: space-between;
+    flex: 1;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    position: relative;
+}
+
+tr{
+    font-size: 1rem;
+    flex: 3;
+    margin-left: 2rem;
+    position: relative;
+}
